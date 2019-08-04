@@ -1,0 +1,45 @@
+C:\Users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Invoice.resources
+C:\Users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.exe
+C:\Users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.pdb
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Properties.Resources.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Startpage.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Home.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Record.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Invoice_Final.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.InvoiceShow.resources
+C:\Users\miraj\Documents\Visual Studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Search.resources
+C:\Users\SAADU\Downloads\project\Practice\Practice\obj\x86\Debug\Practice.exe
+C:\Users\SAADU\Downloads\project\Practice\Practice\obj\x86\Debug\Practice.pdb
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.exe
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.pdb
+E:\SD project\Practice\Practice\bin\Debug\Practice.exe
+E:\SD project\Practice\Practice\bin\Debug\Practice.pdb
+E:\SD project\Practice\Practice\obj\x86\Debug\Invoice.csprojResolveAssemblyReference.cache
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Home.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Invoice.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.InvoiceShow.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Invoice_Final.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Properties.Resources.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Record.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Search.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Practice.Startpage.resources
+E:\SD project\Practice\Practice\obj\x86\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Invoice.csprojAssemblyReference.cache
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Home.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Invoice.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.InvoiceShow.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Invoice_Final.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Properties.Resources.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Record.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Search.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.Startpage.resources
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Invoice.csproj.GenerateResource.cache
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.exe
+C:\Users\Alvin\Desktop\PROJECT\Super Shop\Practice\Practice\obj\x86\Debug\Practice.pdb

@@ -1,0 +1,8 @@
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\bin\Debug\Practice.exe
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\bin\Debug\Practice.pdb
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Properties.Resources.resources
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.csproj.GenerateResource.Cache
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.exe
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.pdb
+c:\users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.Invoice.resources
+C:\Users\miraj\documents\visual studio 2010\Projects\Practice\Practice\obj\x86\Debug\Practice.csprojResolveAssemblyReference.cache

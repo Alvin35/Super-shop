@@ -10,7 +10,7 @@ namespace Practice
     class AdminDAO
     {
         
-        String connectionString = "Data Source=LAPTOP-K72E9C9B;Initial Catalog=Invoice;Integrated Security=True";
+        String connectionString = "Data Source=.;Initial Catalog=Invoice1;Integrated Security=True";
         private SqlConnection sqlConnection;
         private SqlCommand sqlCommand;
         private SqlDataAdapter sqlAdapter;
@@ -26,9 +26,8 @@ namespace Practice
             
             
               sqlConnection.Open();
-            
-                        
-                
+
+   
             
             string sqlQuery = "SELECT * from Admin_Info where Name='"+username+"'";
             sqlCommand = new SqlCommand(sqlQuery, sqlConnection);

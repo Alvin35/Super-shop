@@ -77,6 +77,11 @@
     <Compile Include="Invoice.Designer.cs">
       <DependentUpon>Invoice.cs</DependentUpon>
     </Compile>
+    <Compile Include="Invoice1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Invoice1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="InvoiceDAO.cs" />
     <Compile Include="InvoiceDTO.cs" />
     <Compile Include="InvoiceItemDTO.cs" />
@@ -143,6 +148,18 @@
     <EmbeddedResource Include="Startpage.resx">
       <DependentUpon>Startpage.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Invoice1DataSet.xsc">
+      <DependentUpon>Invoice1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Invoice1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Invoice1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Invoice1DataSet.xss">
+      <DependentUpon>Invoice1DataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

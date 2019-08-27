@@ -9,7 +9,7 @@ namespace Practice
 {
     class InvoiceDAO
     {
-        private String connectionString = "Data Source=DESKTOP-GUNVPBB;Initial Catalog=Invoice;Integrated Security=True";
+        private String connectionString = "Data Source=.;Initial Catalog=Invoice1;Integrated Security=True";
         private SqlConnection sqlConnection;
         private SqlCommand sqlCommand;
         private SqlDataAdapter sqlAdapter;
